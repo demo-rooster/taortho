@@ -1,0 +1,157 @@
+{
+    "enable_development_mode": false,
+    "company_name": "Sekijima Orthodontics",
+    "domain": "sekijimaorthodontics.com",
+    "email": "drbob@sekijimaorthodontics.com",
+    "phone": {
+      "number": "(425) 235-4830",
+      "href": "tel:+14252354830",
+      "aria": "4 2 5, 2 3 5, 4 8 3 0"
+    },
+    "location": [
+      {
+        "title": "Renton Office",
+        "address": {
+          "street": "1620 Duvall Ave NE",
+          "suite": "Suite B",
+          "city_state": "Renton, WA 98059",
+          "coordinates": {
+            "longitude": "-122.155779",
+            "latitude": "47.506681"
+          }
+        },
+        "phone": {
+          "number": "(425) 235-4830",
+          "href": "tel:+14252354830"
+        },
+        "email": "drbob@sekijimaorthodontics.com",
+        "hours": [
+          {
+            "day": "Monday",
+            "time": "9:00am - 5:00pm"
+          },
+          {
+            "day": "Tuesday",
+            "time": "9:00am - 5:00pm"
+          },
+          {
+            "day": "Wednesday",
+            "time": "9:00am - 1:00pm"
+          },
+          {
+            "day": "Thursday",
+            "time": "12:00pm - 5:30pm"
+          },
+          {
+            "day": "Friday",
+            "time": "Closed"
+          },
+          {
+            "day": "Saturday",
+            "time": "Closed"
+          },
+          {
+            "day": "Sunday",
+            "time": "Closed"
+          }
+        ],
+        "directions_link": {
+          "href": "http://maps.google.com/maps?client=safari&q=1620+Duvall+Ave+NE+Suite+B+Renton,+WA+98059&oe=UTF-8&ie=UTF8&hq=&hnear=1620+Duvall+Ave+NE,+Renton,+Washington+98059&gl=us&vpsrc=0&ll=47.506681,-122.155779&spn=0.00761,0.01929&z=14&iwloc=A&source=embed",
+          "label": "Get Directions"
+        },
+        "special_note": ""
+      }
+    ],
+    "typography": [
+      {
+        "label": "font",
+        "font": "'Open Sans', helvetica, arial, sans-serif"
+      },
+      {
+        "label": "font-title",
+        "font": "'Archivo', sans-serif"
+      }
+    ],
+    "top_bar": {
+      "enable_top_bar": true,
+      "type": "links",
+      "theme": "light",
+      "content_alignment": "right",
+      "links": [
+        {
+          "icon": "google",
+          "text": "1620 Duvall Ave NE Suite B, Renton, WA 98059",
+          "href": "http://maps.google.com/maps?client=safari&q=1620+Duvall+Ave+NE+Suite+B+Renton,+WA+98059&oe=UTF-8&ie=UTF8&hq=&hnear=1620+Duvall+Ave+NE,+Renton,+Washington+98059&gl=us&vpsrc=0&ll=47.506681,-122.155779&spn=0.00761,0.01929&z=14&iwloc=A&source=embed",
+          "label": "View 1620 Duvall Ave NE Suite B, Renton, WA 98059 on Google Maps",
+          "new_window": true
+        },
+        {
+          "icon": "phone",
+          "text": "(425) 235-4830",
+          "href": "tel:+14252354830",
+          "label": "Call Sekijima Orthodontics",
+          "new_window": false
+        }
+      ],
+      "announcement": {
+        "icon": "tooth-stars",
+        "label": "Complimentary consultation",
+        "text": "We offer a complimentary initial consultation that includes an exam, pano x-ray, and discussion of treatment options.",
+        "mobile_text": "Free consultation",
+        "modal": {
+          "title": "Complimentary Initial Consultation",
+          "text": "<p>There is no charge for your first consultation. We include a thorough exam, diagnostic imaging when needed, and a clear discussion of recommended options and timing. If treatment is appropriate, diagnostic records can often be taken the same day to streamline your care.</p><p>To prepare, please download and complete the New Patient and Medical History forms from our website and bring them to your appointment.</p>"
+        }
+      }
+    },
+    "nav": {
+      "cta_buttons": true,
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "primary",
+            "label": "Schedule Consultation",
+            "aria_label": "Schedule a consultation",
+            "href": "",
+            "path": "/appointments",
+            "hash": "",
+            "external": false,
+            "include_icon": false,
+            "icon": "phone",
+            "color": "primary"
+          }
+        }
+      ],
+      "floating": true
+    },
+    "footer": {
+      "social_media": [
+        {
+          "href": "https://www.facebook.com/Sekijimaorthodontics1",
+          "icon": "facebook"
+        }
+      ],
+      "add_border": false
+    },
+    "enable_popup": false,
+    "popup": {
+      "title": "Welcome to Sekijima Orthodontics",
+      "text": "",
+      "image": {
+        "src": "",
+        "webp": "",
+        "alt": "",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
+      }
+    }
+  }
