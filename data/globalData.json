@@ -4,7 +4,7 @@
   "domain": "taortho.com",
   "email": "info@taortho.com",
   "phone": {
-    "number": "(716) 759-8323",
+    "number": "716-759-8323",
     "href": "tel:+17167598323",
     "aria": "7 1 6, 7 5 9, 8 3 2 3"
   },
@@ -12,12 +12,12 @@
     {
       "title": "Clarence Office",
       "address": {
-        "street": "9650 Main St",
+        "street": "9650 Main Street",
         "suite": "",
         "city_state": "Clarence, NY 14031",
         "coordinates": {
-          "longitude": "",
-          "latitude": ""
+          "longitude": "-78.6314355",
+          "latitude": "42.9736638"
         }
       },
       "phone": {
@@ -25,22 +25,43 @@
         "href": "tel:+17167598323"
       },
       "email": "info@taortho.com",
-      "hours": [],
+      "hours": [
+        {
+          "day": "Monday",
+          "time": "8:30 AM - 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "time": "8:30 AM - 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "time": "8:00 AM - 11:30 AM"
+        },
+        {
+          "day": "Thursday",
+          "time": "8:00 AM - 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "time": "8:00 AM - 11:30 AM"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.taortho.com/clarence-office",
+        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
         "label": "Get Directions"
       },
-      "special_note": "Complimentary consultations available. Please call or request an appointment online to confirm hours."
+      "special_note": ""
     },
     {
       "title": "Tonawanda Office",
       "address": {
         "street": "1077 Delaware Rd",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Tonawanda / Buffalo, NY 14223",
         "coordinates": {
-          "longitude": "",
-          "latitude": ""
+          "longitude": "-78.8729134",
+          "latitude": "42.9905206"
         }
       },
       "phone": {
@@ -50,10 +71,10 @@
       "email": "info@taortho.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.taortho.com/tonawanda-office",
+        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
         "label": "Get Directions"
       },
-      "special_note": "Complimentary consultations available. Please call or request an appointment online to confirm hours."
+      "special_note": ""
     }
   ],
   "typography": [
@@ -67,34 +88,19 @@
     }
   ],
   "top_bar": {
-    "enable_top_bar": true,
+    "enable_top_bar": false,
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [
-      {
-        "icon": "google",
-        "text": "9650 Main St, Clarence, NY 14031",
-        "href": "https://www.taortho.com/clarence-office",
-        "label": "View 9650 Main St, Clarence, NY 14031 on the Clarence office page",
-        "new_window": true
-      },
-      {
-        "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call (716) 759-8323",
-        "new_window": false
-      }
-    ],
+    "links": [],
     "announcement": {
-      "icon": "phone",
-      "label": "Complimentary Consultations",
-      "text": "We offer complimentary consultations at our Clarence and Tonawanda offices. Request an appointment online or call to schedule.",
-      "mobile_text": "Complimentary consultations",
+      "icon": "tooth-two-v2",
+      "label": "",
+      "text": "",
+      "mobile_text": "",
       "modal": {
-        "title": "Complimentary Consultations",
-        "text": "Tyska Alexander Orthodontics provides complimentary consultations at both offices. Our doctors collaborate on each treatment plan to deliver customized care. Request an appointment online or call the office to schedule."
+        "title": "",
+        "text": ""
       }
     }
   },
@@ -105,35 +111,29 @@
         "button": {
           "type": "nuxt",
           "style": "primary",
-          "label": "Request an Appointment",
-          "aria_label": "Request an appointment or complimentary consultation",
-          "href": "https://www.taortho.com/appointment-request",
-          "path": "/appointment-request",
-          "hash": "",
-          "external": true,
+          "label": "Schedule Consultation",
+          "aria_label": "Schedule a consultation",
+          "href": "",
+          "path": "/contact",
+          "hash": "#form",
+          "external": false,
           "include_icon": false,
-          "icon": "pencil",
-          "color": "black"
+          "icon": "tooth-two-v2",
+          "color": "primary"
         }
       }
     ],
     "floating": true
   },
+  "primary_cta": {
+    "label": "Schedule Consultation",
+    "path": "/contact",
+    "hash": "#form",
+    "external": false,
+    "href": ""
+  },
   "footer": {
-    "social_media": [
-      {
-        "href": "/#",
-        "icon": "facebook"
-      },
-      {
-        "href": "/#",
-        "icon": "instagram"
-      },
-      {
-        "href": "/#",
-        "icon": "yelp"
-      }
-    ],
+    "social_media": [],
     "add_border": false
   },
   "enable_popup": false,
@@ -151,9 +151,7 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": {
-        "context_category": "About Hero"
-      }
+      "image_selection_hints": null
     }
   }
 }
