@@ -2,17 +2,57 @@
   "enable_development_mode": false,
   "company_name": "Tyska Alexander Orthodontics",
   "domain": "taortho.com",
-  "email": "info@taortho.com",
+  "email": "info@mandtortho.com",
   "phone": {
-    "number": "716-759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(716) 875-0405",
+    "href": "tel:+17168750405",
+    "aria": "7 1 6, 8 7 5, 0 4 0 5"
   },
   "location": [
     {
+      "title": "Tonawanda Office",
+      "address": {
+        "street": "1077 Delaware Rd",
+        "suite": "",
+        "city_state": "Tonawanda, NY 14223",
+        "coordinates": {
+          "longitude": "-78.8730228",
+          "latitude": "42.9901241"
+        }
+      },
+      "phone": {
+        "number": "(716) 875-0405",
+        "href": "tel:+17168750405"
+      },
+      "email": "info@mandtortho.com",
+      "hours": [
+        {
+          "day": "Monday",
+          "time": "8:30am - 4:30pm"
+        },
+        {
+          "day": "Tuesday",
+          "time": "8:30am - 4:30pm"
+        },
+        {
+          "day": "Wednesday",
+          "time": "8:00am - 4:00pm"
+        },
+        {
+          "day": "Thursday",
+          "time": "8:30am - 4:00pm"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd,+Tonawanda,+NY+14223",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
       "title": "Clarence Office",
       "address": {
-        "street": "9650 Main Street",
+        "street": "9650 Main St",
         "suite": "",
         "city_state": "Clarence, NY 14031",
         "coordinates": {
@@ -24,54 +64,31 @@
         "number": "(716) 759-8323",
         "href": "tel:+17167598323"
       },
-      "email": "info@taortho.com",
+      "email": "info@mandtortho.com",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 AM - 4:30 PM"
+          "time": "8:30am - 4:30pm"
         },
         {
           "day": "Tuesday",
-          "time": "8:30 AM - 4:30 PM"
+          "time": "8:30am - 4:30pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00 AM - 11:30 AM"
+          "time": "8:00am - 11:30am"
         },
         {
           "day": "Thursday",
-          "time": "8:00 AM - 4:00 PM"
+          "time": "8:00am - 4:00pm"
         },
         {
           "day": "Friday",
-          "time": "8:00 AM - 11:30 AM"
+          "time": "8:00am - 11:30am"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda / Buffalo, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8729134",
-          "latitude": "42.9905206"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@taortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St,+Clarence,+NY+14031",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -88,19 +105,34 @@
     }
   ],
   "top_bar": {
-    "enable_top_bar": false,
+    "enable_top_bar": true,
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [],
+    "links": [
+      {
+        "icon": "tooth-two-v2",
+        "text": "1077 Delaware Rd, Tonawanda, NY 14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd,+Tonawanda,+NY+14223",
+        "label": "View 1077 Delaware Rd, Tonawanda, NY 14223 on google maps",
+        "new_window": true
+      },
+      {
+        "icon": "phone",
+        "text": "(716) 875-0405",
+        "href": "tel:+17168750405",
+        "label": "Call (716) 875-0405",
+        "new_window": false
+      }
+    ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID 19 update",
+      "text": "We are committed to keeping our patients safe. Click for our COVID-19 guidance and office procedures.",
+      "mobile_text": "COVID 19 update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID 19 Update",
+        "text": "<p>We continue to follow CDC and local health guidelines to keep visits safe and comfortable. If you have questions about your upcoming appointment, please call the office.</p>"
       }
     }
   },
@@ -133,7 +165,20 @@
     "href": ""
   },
   "footer": {
-    "social_media": [],
+    "social_media": [
+      {
+        "href": "/#",
+        "icon": "facebook"
+      },
+      {
+        "href": "/#",
+        "icon": "instagram"
+      },
+      {
+        "href": "/#",
+        "icon": "youtube"
+      }
+    ],
     "add_border": false
   },
   "enable_popup": false,
@@ -151,7 +196,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
