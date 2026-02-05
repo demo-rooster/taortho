@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Beautiful Smiles",
+      "title": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world.",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -12,16 +12,16 @@
         "href": "",
         "path": "/contact",
         "hash": "#form",
-        "external": false,
+        "external": true,
         "include_icon": false,
-        "icon": "tooth-two-v2",
-        "color": "primary"
+        "icon": "pencil",
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide1.jpg",
-        "webp": "https://www.taortho.com/assets/images/slideshow/slide1.jpg",
-        "alt": "Smiling patients and welcoming orthodontic team in bright office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/146116930_Handsome_young_Asian_man_standing_on_a_city_street.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/146116930_Handsome_young_Asian_man_standing_on_a_city_street.webp",
+        "alt": "Happy people showing beautiful smiles at Tyska Alexander Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -29,9 +29,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Home Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -42,13 +40,13 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome: Tyska & Alexander",
+      "title": "Welcome to Tyska Alexander Orthodontics",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self-esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors consult together on each treatment plan so you benefit from multiple experienced eyes on your case."
+          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors achieve excellent clinical results because they consult together when they design a treatment plan for each patient."
         },
         {
-          "text": "Each plan is tailored to you; our goal is to ensure everyone we treat is completely satisfied with their smile. Our experienced, compassionate team supports you from your complimentary consultation through the final retainer check."
+          "text": "Each treatment plan is unique to you and your needs: our doctors pay attention to details that less-experienced providers might overlook to make your mouth healthy and your smile beautiful. Our experienced orthodontic team supports you through every step, and we offer complimentary consultations at our Clarence and Tonawanda offices."
         }
       ],
       "component_options": {
@@ -62,14 +60,14 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "What Sets Us Apart",
+      "title": "Why Choose Us",
       "items": [
         {
-          "title": "Unique Care",
+          "title": "Collaborative Team",
           "icon": "tooth-check",
           "image": {
-            "src": "",
-            "webp": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/609077474_team_of_dentists_is_diagnosing_inside_conference_r.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/609077474_team_of_dentists_is_diagnosing_inside_conference_r.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -80,7 +78,7 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Three doctors review each case so your treatment is customized, precise, and efficient.",
+          "text": "Every treatment plan is reviewed by our doctors together so you benefit from multiple experienced orthodontists.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -92,11 +90,11 @@
           }
         },
         {
-          "title": "Welcoming Team",
+          "title": "Personalized Care",
           "icon": "tooth-check",
           "image": {
-            "src": "",
-            "webp": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -107,7 +105,7 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Patient-focused care in a friendly, positive office where kids and adults feel at ease.",
+          "text": "We design customized treatment plans that focus on both oral health and the cosmetic results you want.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -119,11 +117,11 @@
           }
         },
         {
-          "title": "All Ages Served",
+          "title": "Modern Technology",
           "icon": "tooth-check",
           "image": {
-            "src": "",
-            "webp": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -134,7 +132,7 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Treatment options for children, teens, adults and seniors, including ceramic brackets and clear aligners.",
+          "text": "We offer clear and metal braces, Invisalign<sup>®</sup>/Invisalign Teen®, iTero digital impressions and Orthopulse® options for precise, comfortable care.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -146,11 +144,11 @@
           }
         },
         {
-          "title": "Complimentary Consult",
+          "title": "Friendly Team",
           "icon": "tooth-check",
           "image": {
-            "src": "",
-            "webp": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -161,7 +159,7 @@
             "loading_mask": "",
             "image_selection_hints": null
           },
-          "text": "Start with a free consultation: photos, evaluation, and a joint review by our doctors at no charge.",
+          "text": "Our compassionate, experienced team supports patients from a complimentary consultation through retention, making every visit easy.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -175,16 +173,16 @@
       ],
       "button": {
         "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
+        "style": "secondary",
+        "label": "",
+        "aria_label": "",
         "href": "",
-        "path": "/contact",
-        "hash": "#form",
+        "path": "",
+        "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v2",
-        "color": "primary"
+        "icon": "tooth-two-v1",
+        "color": "black"
       },
       "component_options": {
         "hash": "",
@@ -201,48 +199,46 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Edwin Tyska",
+      "title": "Meet Dr. Edwin L. Tyska, DDS",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "“I honestly feel I am one of the lucky people who really enjoy what they do for a living. I love being an orthodontist. For the past 14 years, I have had the opportunity to serve and meet so many wonderful people. The friendships I have made with my patients and their families, and the changes that I have made in their smiles, will last a lifetime.” Dr. Edwin Tyska, D.D.S., completed his D.D.S. magna cum laude at SUNY Buffalo School of Dental Medicine and earned a certificate of proficiency in orthodontics from SUNY Buffalo. He holds a B.S. in Biology, summa cum laude, from St. John's University and continues regular continuing education to offer modern, evidence-based care."
+          "text": "I honestly feel I am one of the lucky people who really enjoy what they do for a living. I love being an orthodontist. My education in dentistry and orthodontics has provided me with a strong foundation of knowledge and experience. It is my practice philosophy that every patient should be treated the way I would treat my own family."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
-        "webp": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
-        "alt": "Headshot of a Tyska & Alexander orthodontist",
+        "src": "",
+        "webp": "",
+        "alt": "",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
-        "type": "embedded",
+        "type": "file",
         "src": ""
       },
       "buttons": [
         {
           "button": {
             "type": "nuxt",
-            "style": "primary",
-            "label": "Schedule Consultation",
-            "aria_label": "Schedule a consultation",
+            "style": "secondary",
+            "label": "Meet Dr. Tyska",
+            "aria_label": "Learn about Dr. Tyska",
             "href": "",
-            "path": "/contact",
-            "hash": "#form",
-            "external": false,
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": true,
             "include_icon": false,
-            "icon": "tooth-two-v2",
-            "color": "primary"
+            "icon": "pencil",
+            "color": "black"
           }
         }
       ],
@@ -268,34 +264,100 @@
       "preserve_image": true
     },
     {
-      "acf_fc_layout": "block_masonary_grid",
-      "title": "Treatment Options Overview",
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Kristen M. Alexander, DDS, MS",
       "paragraphs": [
         {
-          "text": "From virtually invisible clear aligners to traditional braces and palatal expanders, we offer treatment options to meet each patient’s goals."
+          "has_heading": false,
+          "heading": "",
+          "text": "I take great pleasure in getting to know our patients on a personal level and treating each one in a caring, professional manner. I have been part of this fantastic practice since 2007."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
+        "webp": "",
+        "alt": "Kristen Alexander, DDS, MS, orthodontist at Tyska Alexander Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "file",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Meet Dr. Alexander",
+            "aria_label": "Learn about Dr. Alexander",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": true,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "block_masonary_grid",
+      "title": "Our Treatments Overview",
+      "paragraphs": [
+        {
+          "text": "From clear aligners and digital scanning to accelerated options, we offer modern orthodontic solutions for children, teens and adults."
         }
       ],
       "button": {
         "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
+        "style": "secondary",
+        "label": "Learn More",
+        "aria_label": "Learn more about our treatments",
         "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
+        "path": "/treatments",
+        "hash": "",
+        "external": true,
         "include_icon": false,
-        "icon": "tooth-two-v2",
-        "color": "primary"
+        "icon": "tooth-two-v1",
+        "color": "black"
       },
       "links": true,
       "columns": 4,
       "items": [
         {
           "image": {
-            "src": "https://www.taortho.com/sesame_media/images/types-of-braces/invisalign.jpg",
-            "webp": "https://www.taortho.com/sesame_media/images/types-of-braces/invisalign.jpg",
-            "alt": "Clear removable aligners used for orthodontic treatment",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
+            "alt": "Patient holding clear Invisalign aligners",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -303,19 +365,17 @@
             "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Clear Aligners",
+          "title": "Invisalign<sup>®</sup>",
           "path": "/treatments",
           "hash": "#invisalign"
         },
         {
           "image": {
-            "src": "https://www.taortho.com/sesame_media/images/types-of-braces/traditional-metal.jpg",
-            "webp": "https://www.taortho.com/sesame_media/images/types-of-braces/traditional-metal.jpg",
-            "alt": "Stainless steel traditional metal braces",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
+            "alt": "iTero digital scanner in a modern orthodontic office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -323,19 +383,17 @@
             "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Traditional Metal Braces",
+          "title": "iTero Digital Impression System",
           "path": "/treatments",
-          "hash": "#traditional-metal-braces"
+          "hash": "#itero-digital-impression-system"
         },
         {
           "image": {
-            "src": "https://www.taortho.com/sesame_media/images/types-of-braces/clear.jpg",
-            "webp": "https://www.taortho.com/sesame_media/images/types-of-braces/clear.jpg",
-            "alt": "Clear ceramic braces that blend with natural tooth color",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.webp",
+            "alt": "Orthopulse device used with clear aligner therapy",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -343,33 +401,11 @@
             "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Clear (Ceramic) Braces",
+          "title": "Orthopulse® (with Invisalign)",
           "path": "/treatments",
-          "hash": "#clear-ceramic-braces"
-        },
-        {
-          "image": {
-            "src": "https://www.taortho.com/sesame_media/images/types-of-appliances/palatal-expander.jpg",
-            "webp": "https://www.taortho.com/sesame_media/images/types-of-appliances/palatal-expander.jpg",
-            "alt": "Orthodontic palatal expander appliance",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "center",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "title": "Palatal Expander",
-          "path": "/treatments",
-          "hash": "#palatal-expander"
+          "hash": "#orthopulse-and-invisalign"
         }
       ],
       "component_options": {
@@ -383,31 +419,31 @@
     },
     {
       "acf_fc_layout": "multi_item_testimonial",
-      "title": "Invisalign Patient Testimonials",
+      "title": "What Our Patients Say",
       "review_text": "Read More Reviews",
       "links": [
         {
-          "href": "https://www.facebook.com/invisalign",
+          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM&q=MacDonald,+Tyska+%26+Alexander+Orthodontics",
           "icon": "facebook",
           "color": "primary"
         }
       ],
       "testimonials": [
         {
-          "author": "Christa",
-          "testimonial": "“I'm so glad I made the investment to go with aligners rather than metal braces... It's so easy — all I have to do is remove my aligners when I eat.”"
+          "author": "Daniel",
+          "testimonial": "“I definitely smile a lot more. Even though I'm still in treatment, it has given me more confidence. It's given me something to look forward to.”"
         },
         {
-          "author": "Martin",
-          "testimonial": "“My aligners are so comfortable, compared to the metal braces I had when I was a kid, that sometimes I forget I have them on.”"
+          "author": "Breanna",
+          "testimonial": "“What I like best about Invisalign is the fact that I can take them out and floss and brush my teeth and put them back in. So it's not like I'm working around all this metal in my mouth...”"
         },
         {
           "author": "Gina",
-          "testimonial": "“I always wanted to have straight teeth, but never thought my smile would look this great... I couldn't be happier!”"
+          "testimonial": "“I would not have gone the regular braces route because I am in a customer-facing position... it just wasn't an option.”"
         },
         {
-          "author": "Alex",
-          "testimonial": "“In just about nine months my teeth were straightened using the clear, comfortable, and easy-to-remove aligners.”"
+          "author": "William",
+          "testimonial": "“At my age, to have the big metal train tracks in your mouth, I just figured... I really believe in the product.”"
         }
       ],
       "component_options": {
@@ -417,26 +453,22 @@
         "hide_component": false
       },
       "has_background": true,
-      "background": "bg1",
-      "linear_gradient": ""
+      "background": "bg2",
+      "linear_gradient": "linear-gradient(0deg, #EFF6F8 0%, rgba(239, 246, 248, 0) 100%)"
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Invisalign Socials",
+      "title": "Follow Us on Social Media",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://www.facebook.com/invisalign",
-          "icon": "facebook"
-        },
-        {
-          "href": "http://twitter.com/invisalign",
-          "icon": "twitter"
-        },
-        {
-          "href": "http://www.youtube.com/invisalign",
+          "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
           "icon": "youtube"
+        },
+        {
+          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM&q=MacDonald,+Tyska+%26+Alexander+Orthodontics",
+          "icon": "facebook"
         }
       ],
       "email": "",
@@ -464,9 +496,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://www.taortho.com/sesame_media/images/invisalign-pro-package/logo-facebook.png",
-        "webp": "https://www.taortho.com/sesame_media/images/invisalign-pro-package/logo-facebook.png",
-        "alt": "Invisalign social icons",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.webp",
+        "alt": "Parents with kids relaxing in front of home",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -474,9 +506,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Community"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": false,
@@ -485,7 +515,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Schedule Appointment",
+      "title": "Ready to get started?",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -509,14 +539,14 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "background_type": "has_image",
+      "background_type": "has_background",
       "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "webp": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "alt": "Smiling patient with orthodontic team in modern office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.webp",
+        "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -524,9 +554,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -535,14 +563,14 @@
     },
     {
       "seo": {
-        "page_title": "Home - Tyska & Alexander Orthodontics",
-        "page_description": "Tyska & Alexander Orthodontics provides personalized orthodontic care including Invisalign, braces, and appliances with offices in Clarence and Tonawanda, NY.",
-        "page_keywords": "orthodontics, Invisalign, braces, clear aligners, Tonawanda, Clarence",
+        "page_title": "Home - Tyska Alexander Orthodontics",
+        "page_description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, iTero scans, braces, Orthopulse® and a​",
+        "page_keywords": "Tyska Alexander Orthodontics, orthodontist Clarence NY, orthodontist Tonawanda NY, Invisalign, Orthopulse, iTero, braces, clear aligners",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Tyska & Alexander Orthodontics",
-            "description": "Tyska & Alexander Orthodontics provides personalized orthodontic care including Invisalign, braces, and appliances with offices in Clarence and Tonawanda, NY.",
+            "title": "Home - Tyska Alexander Orthodontics",
+            "description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, iTero scans, braces and Orthopulse®.",
             "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
           }
         }
@@ -564,14 +592,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v2",
-        "color": "primary"
+        "icon": "pencil",
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d25xczrsvvsqdg.cloudfront.net/mysmithortho-treatments-hero.jpg",
-        "webp": "https://d25xczrsvvsqdg.cloudfront.net/mysmithortho-treatments-hero.webp",
-        "alt": "Dr. Edwin Tyska and Dr. Kristen Alexander consulting together with a patient in the office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
+        "alt": "Welcoming orthodontic office with smiling team members in a bright reception area",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -592,19 +620,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "What Sets Us Apart",
+      "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self-esteem and the confidence with which you move through the world. Our doctors consult together when they design a treatment plan for each patient so you benefit from the combined expertise of multiple orthodontists."
+          "text": "Our greatest goal is to give you the healthy, straight, and beautiful smile you’ve always wanted. We work with you every step of the way to make your orthodontic care as rewarding as possible. We utilize the latest technology and offer a variety of safe and gentle treatment options to give you the customized, individual care you deserve. Every smile starts with an initial consultation — during that visit we review medical/dental history, perform a complete oral exam, create a customized treatment plan, and review financial/insurance/payment options."
         },
         {
-          "text": "We deliver attentive, personalized care focused on your clinical needs and daily life. Our offices are welcoming and family oriented, and we provide complimentary consultations so you can explore options and feel confident about your treatment choice."
-        },
-        {
-          "text": "We offer advanced options including clear braces and Invisalign<sup>®</sup>, plus digital scanning and modern orthodontic technologies that make treatment more comfortable and predictable."
-        },
-        {
-          "text": "From flexible scheduling to a compassionate team at every visit, we work to make orthodontic care accessible, convenient, and tailored to each patient."
+          "text": "We have created an office that is positive, supportive, and fun. You will hear a lot of laughter as soon as you step through our doors. It is a joy to spend our days helping people we genuinely care about to achieve their dream smile."
         }
       ],
       "component_options": {
@@ -625,9 +647,9 @@
       "title": "Meet Dr. Tyska",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide1.jpg",
+        "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
         "webp": "",
-        "alt": "Dr. Edwin Tyska consulting with a patient",
+        "alt": "Dr. Edwin Tyska smiling in the practice",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -646,16 +668,16 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "I love being an orthodontist. For the past 14 years I’ve had the opportunity to serve and meet so many wonderful people. I consult closely with my colleagues to ensure each treatment plan benefits from multiple perspectives."
+              "text": "Edwin Tyska, DDS. I honestly feel I am one of the lucky people who really enjoy what they do for a living. I love being an orthodontist. For the past 14 years, I have had the opportunity to serve and meet so many wonderful people. The friendships I have made with my patients and their families, and the changes that I have made in their smiles, will last a lifetime."
             },
             {
-              "text": "My approach blends clinical precision with a patient-first attitude so care is comfortable, efficient, and focused on long-term results."
+              "text": "Dr. Tyska brings long-standing clinical experience and a warm, patient-focused approach to care. He enjoys working with children, teens, and adults to create healthy, confident smiles."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
             "webp": "",
-            "alt": "Dr. Tyska in treatment area",
+            "alt": "Dr. Edwin Tyska consulting with a patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -672,13 +694,13 @@
           "header": "Education",
           "paragraphs": [
             {
-              "text": "Education includes a BS in biology, summa cum laude from St. John’s University; DDS, magna cum laude from SUNY Buffalo School of Dental Medicine; and a Certificate of Proficiency in Orthodontics from SUNY Buffalo."
+              "text": "Education and training: Bachelor of Science in biology, summa cum laude — St. John's University; Doctorate of Dental Surgery, magna cum laude — SUNY at Buffalo School of Dental Medicine; Certificate of proficiency in orthodontics — SUNY at Buffalo School of Dental Medicine. Dr. Tyska and the practice participate regularly in continuing education to stay current with treatment methods and technology."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
             "webp": "",
-            "alt": "Academic and clinical environment",
+            "alt": "Education and professional affiliations for Dr. Tyska",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -687,7 +709,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "About Hero"
+              "context_category": "Experienced"
             }
           }
         },
@@ -695,13 +717,13 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "Outside the office I live in East Amherst, coach girls’ softball, enjoy golf and travel, and am an enthusiastic local sports fan."
+              "text": "Outside the office Dr. Tyska lives in East Amherst with his wife Courtney and their children, Landen and Aurora. He is active in the community as an assistant coach for youth softball, enjoys golf, traveling, and cheering on the Buffalo Sabres."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
             "webp": "",
-            "alt": "Dr. Tyska coaching youth sports",
+            "alt": "Dr. Tyska enjoying community and family activities",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -716,7 +738,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-tyska",
+        "hash": "meet-dr-edwin-tyska",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -739,7 +761,7 @@
       "image": {
         "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
         "webp": "",
-        "alt": "Dr. Kristen Alexander smiling",
+        "alt": "Dr. Kristen Alexander smiling in the practice",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -758,13 +780,16 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "I take great pleasure in getting to know patients personally and treating each in a caring, professional manner. I focus on creating treatment plans that fit each patient’s lifestyle and goals."
+              "text": "Kristen Alexander, DDS, MS. I take great pleasure in getting to know our patients on a personal level and treating each one in a caring, professional manner. I have been part of this practice since 2007."
+            },
+            {
+              "text": "Dr. Alexander focuses on delivering gentle, evidence-based orthodontic care for children, teens, and adults, and values long-term relationships with patients and families."
             }
           ],
           "image": {
             "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
             "webp": "",
-            "alt": "Dr. Alexander in treatment room",
+            "alt": "Dr. Kristen Alexander with a patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -781,13 +806,13 @@
           "header": "Education",
           "paragraphs": [
             {
-              "text": "Education includes a BS in microbiology/immunology from the University of Rochester; DDS, magna cum laude from SUNY Buffalo with a pediatric dentistry minor; and a Certificate of Proficiency in Orthodontics plus an MS in oral biology from the University at Buffalo."
+              "text": "Education and training: Bachelor of Science in microbiology/immunology — University of Rochester; Doctorate of Dental Surgery with a minor in pediatric dentistry, magna cum laude — SUNY at Buffalo School of Dental Medicine; Certificate of proficiency in orthodontics and Master of Science in oral biology — University at Buffalo. The doctors regularly participate in continuing education to remain current with clinical advances."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
             "webp": "",
-            "alt": "Academic setting",
+            "alt": "Dr. Alexander's education and affiliations",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -796,7 +821,7 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "What sets us apart"
+              "context_category": "Experienced"
             }
           }
         },
@@ -804,13 +829,13 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "A Buffalo native, I enjoy outdoor activities, travel, and supporting local teams. Building relationships with patients and their families is one of the most rewarding parts of the work I do."
+              "text": "A Buffalo native, Dr. Alexander lives locally with her husband Joel and their children Emery and Elliott. She enjoys outdoor activities, travel, and cheering for the Sabres and Bills when not in the office."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
             "webp": "",
-            "alt": "Dr. Alexander enjoying community activities",
+            "alt": "Dr. Alexander participating in community and family activities",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -825,7 +850,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-alexander",
+        "hash": "meet-dr-kristen-alexander",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -848,11 +873,11 @@
         {
           "name": "Jeanette",
           "position": "Practice Administrator & Financial Coordinator",
-          "bio": "Part of our experienced team committed to creating a comfortable, stress-free orthodontic experience for every patient.",
+          "bio": "Jeanette manages patient finances and coordinates care with a calm, friendly approach to make treatment planning simple.",
           "image": {
             "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Jeanette.jpg",
             "webp": "",
-            "alt": "Jeanette, Practice Administrator",
+            "alt": "Jeanette Practice Administrator and Financial Coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -868,11 +893,11 @@
         {
           "name": "Stephanie",
           "position": "Front Desk Coordinator",
-          "bio": "A friendly face at check-in who helps keep appointments and patient communication running smoothly.",
+          "bio": "Stephanie welcomes patients, coordinates scheduling, and ensures every visit runs smoothly from check-in to check-out.",
           "image": {
             "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
             "webp": "",
-            "alt": "Stephanie, Front Desk Coordinator",
+            "alt": "Stephanie front desk coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -881,18 +906,18 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Locally owned"
+              "context_category": "Kid friendly"
             }
           }
         },
         {
           "name": "Kathie",
-          "position": "Front Desk Coordinator",
-          "bio": "Committed to patient care and ensuring each visit begins and ends smoothly.",
+          "position": "Front Desk Coordinator / Dental Assistant",
+          "bio": "Kathie supports both clinical and front office operations, keeping patients comfortable and informed throughout treatment.",
           "image": {
             "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kathie.jpg",
             "webp": "",
-            "alt": "Kathie, Front Desk Coordinator",
+            "alt": "Kathie front desk coordinator and dental assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -906,13 +931,13 @@
           }
         },
         {
-          "name": "Heather",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "A clinical coordinator who helps guide patients through treatment with care and attention to detail.",
+          "name": "Kristen",
+          "position": "Treatment Coordinator",
+          "bio": "Kristen guides families through treatment options, financial plans, and what to expect at each stage of care.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
             "webp": "",
-            "alt": "Heather, Clinical Coordinator",
+            "alt": "Kristen treatment coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -921,18 +946,38 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "All Ages"
+              "context_category": "Care"
+            }
+          }
+        },
+        {
+          "name": "Heather",
+          "position": "Clinical Coordinator & Dental Assistant",
+          "bio": "Heather ensures clinical excellence and patient comfort during appointments and procedures.",
+          "image": {
+            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
+            "webp": "",
+            "alt": "Heather clinical coordinator and dental assistant",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Experienced"
             }
           }
         },
         {
           "name": "Torrie",
           "position": "Dental Hygienist / Assistant",
-          "bio": "Supports clinical care and patient education to help each patient feel comfortable and informed.",
+          "bio": "Torrie provides gentle chairside care and patient education to support oral health during orthodontic treatment.",
           "image": {
             "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Torrie.jpg",
             "webp": "",
-            "alt": "Torrie, Dental Hygienist",
+            "alt": "Torrie dental hygienist and assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -941,13 +986,13 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Kid friendly"
+              "context_category": "Care"
             }
           }
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "meet-the-team",
         "component_padding": "full",
         "component_margins": "none",
         "hide_component": false
@@ -955,7 +1000,7 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg2",
+      "background": "bg1",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
@@ -966,21 +1011,9 @@
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
-          "webp": "",
-          "alt": "Office reception and team greeting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
           "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
           "webp": "",
-          "alt": "Bright treatment area with dental chairs",
+          "alt": "Office treatment area with modern equipment",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -992,7 +1025,43 @@
         {
           "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
           "webp": "",
-          "alt": "Office consultation area",
+          "alt": "Comfortable waiting area at our Clarence office",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-177(1).jpg",
+          "webp": "",
+          "alt": "Bright consultation room with patient and doctor",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-167(1).jpg",
+          "webp": "",
+          "alt": "Treatment chair and digital equipment in operatory",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-174(1).jpg",
+          "webp": "",
+          "alt": "Team working together in the treatment area",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1004,7 +1073,7 @@
         {
           "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
           "webp": "",
-          "alt": "Treatment bay in Tonawanda office",
+          "alt": "Tonawanda office reception and patient seating",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1016,7 +1085,7 @@
         {
           "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-374.jpg",
           "webp": "",
-          "alt": "Welcoming patient area in Tonawanda office",
+          "alt": "Modern equipment and operatories at Tonawanda location",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1028,7 +1097,7 @@
         {
           "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-377(1).jpg",
           "webp": "",
-          "alt": "Team and patient interaction in office",
+          "alt": "Friendly staff assisting a patient in the operatory",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1039,7 +1108,7 @@
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "office-tour",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1057,13 +1126,13 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Our doctors are local to the Buffalo region and take part in community activities. We support local youth sports, community events, and schools, and we take pride in creating a warm, family-oriented practice that gives back to the neighborhoods we serve."
+          "text": "Our practice is proud to support local schools, sports teams, and community events. Check our Announcements page for current sponsorships, charity drives, and upcoming events."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d25xczrsvvsqdg.cloudfront.net/byorthodontics-about-community.jpg",
-        "webp": "https://d25xczrsvvsqdg.cloudfront.net/byorthodontics-about-community.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
         "alt": "Graphic representing community support by the practice",
         "aria_hidden": false,
         "bgColor": "",
@@ -1080,15 +1149,31 @@
         "type": "embedded",
         "src": ""
       },
-      "buttons": [],
+      "buttons": [
+        {
+          "button": {
+            "type": "anchor",
+            "style": "primary",
+            "label": "View Announcements",
+            "aria_label": "View community announcements",
+            "href": "https://www.taortho.com/announcements",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "envelope",
+            "color": "primary"
+          }
+        }
+      ],
       "component_options": {
-        "hash": "",
+        "hash": "community",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
-      "has_buttons": false,
+      "has_buttons": true,
       "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
@@ -1103,7 +1188,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Schedule Appointment",
+      "title": "Ready to get started?",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1127,14 +1212,14 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "background_type": "has_image",
+      "background_type": "has_background",
       "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "webp": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "alt": "Smiling patient with orthodontic team in modern office",
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1142,9 +1227,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1153,15 +1236,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Tyska Alexander Orthodontics",
-        "page_description": "Learn about Tyska Alexander Orthodontics, our doctors Dr. Edwin Tyska and Dr. Kristen Alexander, our team, community involvement, and how to schedule a free, no",
-        "page_keywords": "Orthodontics, Braces, Invisalign, Tyska Alexander Orthodontics, Buffalo orthodontist",
+        "page_title": "About Us | Tyska & Alexander Orthodontics",
+        "page_description": "Learn about Tyska & Alexander Orthodontics: our team, doctors Edwin Tyska and Kristen Alexander, patient-focused care, multiple locations, and office hours.",
+        "page_keywords": "Orthodontics, Braces, Invisalign, Tyska, Alexander, T.A. Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Tyska Alexander Orthodontics",
-            "description": "Meet our doctors and team, explore our office, and schedule a complimentary consultation at Tyska Alexander Orthodontics.",
-            "image": ""
+            "title": "About Us | Tyska & Alexander Orthodontics",
+            "description": "Meet our doctors and team. Learn about patient-focused orthodontic care, office locations, and how to schedule your consultation.",
+            "image": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg"
           }
         }
       }
@@ -1180,10 +1263,10 @@
         "href": "",
         "path": "/contact",
         "hash": "#form",
-        "external": false,
+        "external": true,
         "include_icon": false,
-        "icon": "tooth-two-v2",
-        "color": "primary"
+        "icon": "pencil",
+        "color": "black"
       },
       "media_type": "image",
       "image": {
@@ -1208,17 +1291,17 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "First Visit / Initial Consultation",
+      "title": "First Visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your initial consultation gives you the opportunity to meet our team, learn more about orthodontics, receive a complete initial exam, and find out which treatment options will best meet your needs. During your consultation we will review your dental and medical history forms, perform a complete oral exam to determine whether treatment is necessary, help create a customized treatment plan, and discuss financial information, insurance options, and payment plans."
+          "text": "At your complimentary consultation you’ll meet our treatment coordinator and then one of our doctors, who will review treatment options, answer your questions, and explain what to expect and approximately how long treatment may take."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "After your consultation we will schedule your first appointment for appliance placement, which generally takes about an hour. We will work with you to schedule regular follow-up visits about every four to eight weeks so your treatment stays on track."
+          "text": "A typical visit includes arrival and check-in, medical and dental history review with photos, a doctor exam with recommended options, a financial review of costs and payment or financing choices, and scheduling of next steps. Please bring a photo ID, insurance card if applicable, any prior dental records or x-rays, and completed patient forms or be prepared to finish them electronically."
         }
       ],
       "accordion": [],
@@ -1265,10 +1348,10 @@
       "title": "Financing & Insurance",
       "paragraphs": [
         {
-          "text": "The cost of your orthodontic treatment will vary depending on your individual needs and treatment plan. Our staff will discuss the cost of your treatment and each available payment plan option with you so you can make the best choice for yourself and your smile."
+          "text": "Treatment cost varies by plan and individual needs. Our financial coordinator will review payment options and help create a monthly plan that fits your budget. We accept most major credit cards and many insurance plans."
         },
         {
-          "text": "Affordable payment plans are available, and our practice accepts most major credit cards and insurance plans. If your insurance covers any portion of treatment, our team can help with claims and paperwork so the process is easier for you."
+          "text": "We process orthodontic insurance claims and will help verify your coverage. In-house financing with low monthly payments is available, and we offer complimentary, no‑obligation consultations at both our Tonawanda and Clarence offices. For billing or insurance questions call Clarence at (716) 759‑8323 or Tonawanda at (716) 875‑0405."
         }
       ],
       "component_options": {
@@ -1286,12 +1369,12 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Patient Forms / Health History",
+      "title": "Health History Forms",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Please take a minute to print and complete the patient information form before your first appointment, or fill it out electronically so we can provide safe, personalized care from the start."
+          "text": "Please print and complete your patient information before your first appointment, or complete forms securely online using our patient portal. Finishing forms ahead of time speeds check-in and helps us provide safe, personalized care."
         }
       ],
       "accordion": [],
@@ -1315,47 +1398,47 @@
       "buttons": [
         {
           "button": {
-            "type": "nuxt",
-            "style": "primary",
-            "label": "Schedule Consultation",
-            "aria_label": "Schedule a consultation",
-            "href": "",
-            "path": "/contact",
-            "hash": "#form",
-            "external": false,
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Printable Patient Form (Child) — PDF",
+            "aria_label": "printable patient form child pdf",
+            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf",
+            "path": "",
+            "hash": "",
+            "external": true,
             "include_icon": false,
-            "icon": "tooth-two-v2",
-            "color": "primary"
+            "icon": "envelope",
+            "color": "black"
           }
         },
         {
           "button": {
-            "type": "nuxt",
-            "style": "primary",
-            "label": "Schedule Consultation",
-            "aria_label": "Schedule a consultation",
-            "href": "",
-            "path": "/contact",
-            "hash": "#form",
-            "external": false,
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Printable Patient Form (Adult) — PDF",
+            "aria_label": "printable patient form adult pdf",
+            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf",
+            "path": "",
+            "hash": "",
+            "external": true,
             "include_icon": false,
-            "icon": "tooth-two-v2",
-            "color": "primary"
+            "icon": "envelope",
+            "color": "black"
           }
         },
         {
           "button": {
-            "type": "nuxt",
-            "style": "primary",
-            "label": "Schedule Consultation",
-            "aria_label": "Schedule a consultation",
-            "href": "",
-            "path": "/contact",
-            "hash": "#form",
-            "external": false,
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Online Patient Form",
+            "aria_label": "online patient form",
+            "href": "https://patient.sesamecommunications.com/mandtortho/index.html",
+            "path": "",
+            "hash": "",
+            "external": true,
             "include_icon": false,
-            "icon": "tooth-two-v2",
-            "color": "primary"
+            "icon": "envelope",
+            "color": "black"
           }
         }
       ],
@@ -1381,7 +1464,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Schedule Appointment",
+      "title": "Ready to get started?",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1405,14 +1488,14 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "background_type": "has_image",
+      "background_type": "has_background",
       "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "webp": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "alt": "Smiling patient with orthodontic team in modern office",
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1420,9 +1503,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1431,15 +1512,15 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | T/A Orthodontics",
-        "page_description": "Start your journey to a confident smile with Drs. Edwin Tyska and Kristen Alexander. Learn what to expect on your first visit, access patient forms, and request",
-        "page_keywords": "orthodontics, first visit, patient forms, financing, Invisalign, Clarence, Tonawanda",
+        "page_title": "Get Started | Tyska Alexander Orthodontics",
+        "page_description": "Start your smile journey with Tyska Alexander Orthodontics. Learn what to expect at your first visit, access new patient forms, and schedule a free consultation",
+        "page_keywords": "orthodontics, first visit, patient forms, financing, Tyska Alexander Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | T/A Orthodontics",
-            "description": "Start your journey to a confident smile with Drs. Edwin Tyska and Kristen Alexander. Learn what to expect on your first visit, access patient forms, and request",
-            "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
+            "title": "Get Started | Tyska Alexander Orthodontics",
+            "description": "Start your smile journey with Tyska Alexander Orthodontics. Learn what to expect at your first visit, access new patient forms, and schedule a free consultation",
+            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
           }
         }
       }
@@ -1448,7 +1529,7 @@
   "Treatments": [
     {
       "acf_fc_layout": "hero",
-      "title": "Stunning smiles for everyone at every age",
+      "title": "Treatments — Options for every age and smile",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -1460,7 +1541,7 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v2",
+        "icon": "pencil",
         "color": "primary"
       },
       "media_type": "image",
@@ -1486,20 +1567,20 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early Orthodontic Treatment",
+      "title": "Early (Phase One) orthodontic treatment — when to start and why",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early treatment, often called Phase One, typically begins around age eight to nine. The goal is to guide jaw growth, correct developing bite problems and create room for permanent teeth so future treatment can be simpler and less invasive."
+          "text": "Early treatment, often called Phase One, typically begins around age eight or nine; Phase Two usually starts around age 11 or older. The goal is to guide jaw growth, correct bite problems such as underbites or crossbites, and make room for permanent teeth so extractions are less likely later."
         }
       ],
       "accordion": [
         {
-          "header": "When to Begin",
+          "header": "When to start",
           "paragraphs": [
             {
-              "text": "We recommend an evaluation at the first signs of a developing problem or by age eight. Catching issues early allows us to influence jaw growth and improve long‑term outcomes."
+              "text": "Look for early or late loss of baby teeth, difficulty chewing, persistent thumb-sucking after age five, mouth breathing, or crowded front teeth by age seven or eight. These signs can mean it’s time for an evaluation."
             }
           ],
           "image": {
@@ -1510,10 +1591,10 @@
           }
         },
         {
-          "header": "Signs to Watch For",
+          "header": "Signs your child may need treatment",
           "paragraphs": [
             {
-              "text": "Look for early or late loss of baby teeth, difficulty chewing, mouth breathing, persistent thumb sucking, or shifted jaws. If you notice these, schedule an evaluation so we can advise next steps."
+              "text": "Speech issues, protruding teeth, crossbites, or crowding in the front teeth are common reasons families seek an early consult. Addressing these early can simplify later care."
             }
           ],
           "image": {
@@ -1524,16 +1605,46 @@
           }
         },
         {
-          "header": "Benefits of Early Care",
+          "header": "Benefits of early care",
           "paragraphs": [
             {
-              "text": "Early intervention can correct jaw growth, regulate arch width and create space for permanent teeth, potentially reducing the need for extractions or complex surgery later."
+              "text": "Early intervention can direct jaw growth, reduce the severity of future problems, decrease the likelihood of extractions or surgery, and often shorten later treatment time."
             }
           ],
           "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-jpg,q-80,fo-auto/35514118_Smiling_family.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-webp,q-80,fo-auto/35514118_Smiling_family.jpg",
-            "alt": "Smiling family enjoying time together",
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/default-adult-treatment.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/default-adult-treatment.webp",
+            "alt": "Adult patient receiving orthodontic treatment",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "",
+          "paragraphs": [],
+          "image": {
+            "src": "",
+            "webp": "",
+            "alt": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "",
+          "paragraphs": [],
+          "image": {
+            "src": "",
+            "webp": "",
+            "alt": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "",
+          "paragraphs": [],
+          "image": {
+            "src": "",
+            "webp": "",
+            "alt": "",
             "image_selection_hints": null
           }
         }
@@ -1578,40 +1689,50 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Orthodontics for Adults",
+      "title": "Orthodontics for adults — it's never too late",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Modern orthodontics fits adult lives: we offer discreet options like clear braces and Invisalign<sup>®</sup>, plus traditional systems when needed. Treatment for adults considers finished jaw growth, existing dental work and periodontal health."
+          "text": "Many adults choose orthodontics to correct a bite, address crowding or spacing, restore a worn smile, or finish treatment started years ago. Because jaw growth is complete, adult plans consider gum and bone health and coordinate with restorative dentistry when needed."
         }
       ],
       "accordion": [
         {
-          "header": "Why Adults Seek Treatment",
+          "header": "Discreet options for adults",
           "paragraphs": [
             {
-              "text": "Adults pursue orthodontics for crowded or spaced teeth, bite problems, jaw pain, or to improve long‑term oral health and confidence. We review options that match your lifestyle and goals."
+              "text": "Clear aligners such as Invisalign<sup>®</sup>, ceramic (clear) braces, and low-visibility bracket systems give adults effective, less noticeable ways to straighten teeth."
             }
           ],
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/default-adult-treatment.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/default-adult-treatment.webp",
-            "alt": "Adult patient receiving orthodontic treatment",
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/starsmilesli-treatments-clear-aligners.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/starsmilesli-treatments-clear-aligners.webp",
+            "alt": "Smiling Woman with Clear Aligner",
             "image_selection_hints": null
           }
         },
         {
-          "header": "Treatment Options",
+          "header": "What to expect",
           "paragraphs": [
             {
-              "text": "We offer Invisalign<sup>®</sup>, ceramic (clear) braces, metal braces and limited movement options with retainers. Your care plan balances efficiency, aesthetics and dental health."
+              "text": "Treatment is personalized, may involve coordination with periodontists or general dentists, and focuses on creating a healthy, stable bite that is easier to keep clean."
             }
           ],
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/orthotroy-treatments-retainers.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/orthotroy-treatments-retainers.webp",
-            "alt": "Close-up of Invisalign aligners being placed on teeth",
+            "src": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-jpg,q-80/165319819_Two_stylish_smiling_teens_taking_selfie.jpg",
+            "webp": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-webp,q-80/165319819_Two_stylish_smiling_teens_taking_selfie.jpg",
+            "alt": "Two stylish smiling teens taking selfie with braces",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "",
+          "paragraphs": [],
+          "image": {
+            "src": "",
+            "webp": "",
+            "alt": "",
             "image_selection_hints": null
           }
         }
@@ -1635,7 +1756,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "adult-orthodontics",
+        "hash": "braces",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1647,7 +1768,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": false,
@@ -1656,20 +1777,14 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Braces: types & care",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Braces move teeth with gentle, constant force. Options include traditional metal braces, self‑ligating systems and ceramic braces. Each is selected for strength, comfort and the desired appearance."
-        }
-      ],
+      "title": "Braces",
+      "paragraphs": [],
       "accordion": [
         {
           "header": "Traditional Metal Braces",
           "paragraphs": [
             {
-              "text": "Durable and cost‑effective, metal braces use brackets and wires to correct a wide range of problems. Color elastics let younger patients personalize their look."
+              "text": "Metal braces use small brackets and archwires to move teeth predictably. They are durable, cost-effective, and now more comfortable and discreet than in the past."
             }
           ],
           "image": {
@@ -1680,10 +1795,10 @@
           }
         },
         {
-          "header": "Self‑ligating & Ceramic Braces",
+          "header": "Ceramic (clear) braces",
           "paragraphs": [
             {
-              "text": "Self‑ligating brackets use a clip instead of elastics which can lower friction and streamline adjustments. Ceramic braces blend with tooth color for a less visible option, often chosen by older teens and adults."
+              "text": "Ceramic braces blend with your tooth color to be less noticeable while delivering effective tooth movement. Good oral hygiene is important to keep them looking their best."
             }
           ],
           "image": {
@@ -1694,16 +1809,12 @@
           }
         },
         {
-          "header": "Care & Daily Life",
-          "paragraphs": [
-            {
-              "text": "Good hygiene and a few food‑modifications help braces stay effective: avoid very hard, sticky or crunchy items, follow our cleaning guidance, and call us for loose wires or discomfort so we can help quickly."
-            }
-          ],
+          "header": "",
+          "paragraphs": [],
           "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-jpg,q-80/165319819_Two_stylish_smiling_teens_taking_selfie.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-600,h-600,f-webp,q-80/165319819_Two_stylish_smiling_teens_taking_selfie.jpg",
-            "alt": "Two stylish smiling teens taking selfie with braces",
+            "src": "",
+            "webp": "",
+            "alt": "",
             "image_selection_hints": null
           }
         }
@@ -1748,17 +1859,17 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> clear aligners",
+      "title": "Invisalign<sup>®</sup> clear aligners — how they work and candidates",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Invisalign<sup>®</sup> uses clear, removable aligners made from SmartTrack material to move teeth precisely. Aligners are removable for eating and oral care and are typically worn 20–22 hours per day."
+          "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligners to move teeth gently. Aligners are custom-made from digital scans and are removable for eating and oral hygiene, which many patients find convenient."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Treatment begins with a consultation and a digital scan. We create a custom plan with a 3D preview, then monitor progress with periodic checkups. Financing options are available and insurance may apply."
+          "text": "Typical process: consultation, digital scan (iTero) and 3D treatment plan, a series of aligners worn about 20 to 22 hours per day, periodic progress checks, and a retainer such as Vivera at completion. Suitability is determined during consultation based on the complexity of movements and oral health."
         }
       ],
       "accordion": [],
@@ -1802,17 +1913,17 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Orthognathic (jaw) surgery",
+      "title": "Orthognathic Surgery",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Orthognathic surgery is recommended when jaw alignment cannot be corrected with orthodontics alone. We coordinate closely with oral and maxillofacial surgeons to plan care that improves bite function and facial balance."
+          "text": "Orthognathic surgery is recommended when jaw misalignment cannot be corrected with orthodontics alone. Surgery is typically considered after growth is complete, with presurgical orthodontics to align the teeth followed by hospital-based corrective surgery."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Surgery is performed in a hospital setting, and braces are typically worn before and after the procedure to align teeth precisely. Our team discusses risks, recovery and expected timeline during evaluation."
+          "text": "The process includes collaborative planning between the orthodontist and an oral and maxillofacial surgeon, a recovery period of about two weeks, and follow-up orthodontics to fine-tune the bite. Risks and benefits will be discussed in detail during consultation."
         }
       ],
       "accordion": [],
@@ -1856,17 +1967,17 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers: post-treatment care",
+      "title": "Retainers",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "After active treatment, retainers keep teeth stable while bone, gum and muscle adapt. We offer removable clear or wire retainers and bonded fixed options depending on your needs and lifestyle."
+          "text": "Maintain your new smile with custom retainers made for comfort and stability. We offer removable wire-and-acrylic retainers, clear aligner-style Essix retainers, and fixed bonded retainers placed behind the teeth."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Removable retainers are easy for hygiene but require compliance; fixed retainers remove that burden but need special flossing care. We provide clear instructions so your results last."
+          "text": "Wear schedules are personalized; many patients wear a retainer full-time for a short period, then nightly long term to prevent regression. Good oral hygiene and regular checkups help keep results stable."
         }
       ],
       "accordion": [],
@@ -1901,7 +2012,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": false,
@@ -1910,20 +2021,20 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Technology we use",
+      "title": "Advanced Technology",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use digital tools to increase precision, comfort and predictability. Digital scanning, low‑radiation imaging and 3D planning help us design efficient, individualized treatment plans."
+          "text": "We use digital tools to improve precision and comfort. Fast, radiation-free 3D scanning, digital X-rays, and 3D treatment planning help us design predictable, efficient care and let patients preview likely results."
         }
       ],
       "accordion": [
         {
-          "header": "iTero Digital Scanning",
+          "header": "iTero digital scanning",
           "paragraphs": [
             {
-              "text": "Fast, radiation‑free digital scans capture an accurate 3D model of your teeth for treatment planning and appliance fabrication, usually in under five minutes."
+              "text": "iTero scanners capture fast, accurate 3D impressions without messy putty. These scans are used for aligner workflows and to create detailed treatment plans."
             }
           ],
           "image": {
@@ -1934,10 +2045,10 @@
           }
         },
         {
-          "header": "Digital X‑Rays",
+          "header": "Digital X-rays",
           "paragraphs": [
             {
-              "text": "High‑resolution digital radiography provides detailed images with significantly less radiation than traditional film, improving diagnosis and treatment planning."
+              "text": "High-resolution digital radiography provides detailed imagery with less radiation than older film methods, speeding diagnosis and treatment planning."
             }
           ],
           "image": {
@@ -1948,10 +2059,10 @@
           }
         },
         {
-          "header": "3D Treatment Planning",
+          "header": "3D treatment planning",
           "paragraphs": [
             {
-              "text": "Advanced software simulates each stage of tooth movement so you can preview expected changes and we can fine‑tune mechanics for efficient results."
+              "text": "Advanced software simulates each stage of tooth movement so we can refine the plan and show a virtual preview of expected changes."
             }
           ],
           "image": {
@@ -2002,7 +2113,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Schedule Appointment",
+      "title": "Ready to get started?",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -2026,14 +2137,14 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "background_type": "has_image",
+      "background_type": "has_background",
       "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "webp": "https://www.taortho.com/assets/images/slideshow/slide2.jpg",
-        "alt": "Smiling patient with orthodontic team in modern office",
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Enjoying Time Together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2041,9 +2152,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2052,14 +2161,14 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | Orthodontic Care",
-        "page_description": "Explore our orthodontic treatments for children, teens and adults: braces, Invisalign®, retainers, jaw surgery and modern digital planning.",
-        "page_keywords": "orthodontic treatments, braces, Invisalign, retainers, orthognathic surgery, early orthodontics",
+        "page_title": "Treatments | MacDonald, Tyska & Alexander Orthodontics",
+        "page_description": "Explore treatments at MacDonald, Tyska & Alexander Orthodontics in Clarence and Tonawanda: braces, Invisalign®, early care, surgical orthodontics, retainers.",
+        "page_keywords": "orthodontic treatments, braces, Invisalign, early orthodontics, retainers, orthognathic surgery, iTero",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | Orthodontic Care",
-            "description": "Explore our orthodontic treatments for children, teens and adults: braces, Invisalign®, retainers, jaw surgery and modern digital planning.",
+            "title": "Treatments | MacDonald, Tyska & Alexander Orthodontics",
+            "description": "Explore treatments at MacDonald, Tyska & Alexander Orthodontics in Clarence and Tonawanda: braces, Invisalign®, early care, surgical orthodontics, retainers.",
             "image": "https://d2jdm9a19iwpm4.cloudfront.net/treatments/treatments-hero.jpg"
           }
         }
@@ -2069,7 +2178,7 @@
   "Contact": [
     {
       "acf_fc_layout": "hero",
-      "title": "Contact Us",
+      "title": "Request an Appointment / Contact Us",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -2081,14 +2190,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v2",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
+        "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
         "webp": "",
-        "alt": "Welcoming orthodontic office reception area with bright seating and friendly staff",
+        "alt": "Welcoming orthodontic office reception area with bright interior and seating, professional staff ready to assist patients",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2109,7 +2218,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Our Locations",
+      "title": "Office locations",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -2135,15 +2244,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact MacDonald, Tyska & Alexander Orthodontics | Buffalo Orthodontist",
-        "page_description": "Contact MacDonald, Tyska & Alexander Orthodontics to request an appointment, access patient forms, or get directions to our Tonawanda and Clarence offices.",
-        "page_keywords": "MacDonald Tyska & Alexander Orthodontics contact, Buffalo orthodontist, appointment, patient forms, Tonawanda, Clarence",
+        "page_title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
+        "page_description": "Contact Tyska Alexander Orthodontics in Clarence or Tonawanda to schedule an appointment, access patient forms, or request a consultation.",
+        "page_keywords": "Tyska Alexander Orthodontics contact, Clarence orthodontist, Tonawanda orthodontist, appointment request, patient forms",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact MacDonald, Tyska & Alexander Orthodontics | Buffalo Orthodontist",
-            "description": "Contact MacDonald, Tyska & Alexander Orthodontics to request an appointment, access patient forms, or get directions to our Tonawanda and Clarence offices.",
-            "image": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg"
+            "title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
+            "description": "Contact Tyska Alexander Orthodontics in Clarence or Tonawanda to schedule an appointment, access patient forms, or request a consultation.",
+            "image": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg"
           }
         }
       }
@@ -2152,7 +2261,7 @@
   "FAQ": [
     {
       "acf_fc_layout": "hero",
-      "title": "Frequently Asked Questions",
+      "title": "Frequently Asked Questions — Answers for our patients",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -2164,14 +2273,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "tooth-two-v2",
+        "icon": "pencil",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d25xczrsvvsqdg.cloudfront.net/andersonbracesmn-contact-hero.jpg",
-        "webp": "https://d25xczrsvvsqdg.cloudfront.net/andersonbracesmn-contact-hero.webp",
-        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
+        "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+        "webp": "",
+        "alt": "Patient consultation and treatment in a modern orthodontic office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2179,7 +2288,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "src": "",
@@ -2195,23 +2306,23 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "We’ve collected the answers to the questions we hear most often about braces, Invisalign, emergencies, and day‑to‑day care so you can get started with confidence. The doctors and team welcome new patients and offer complimentary consultations to review options and next steps."
+          "text": "Have a question about treatment options, insurance, appointments, or how to care for your braces or aligners? Below are the most common patient questions and quick, practical answers to help you prepare for your visit and make the most of your treatment."
         }
       ],
       "accordion": [
         {
-          "header": "What do I do in an orthodontic emergency?",
+          "header": "What treatment options do you offer?",
           "paragraphs": [
             {
-              "text": "True orthodontic emergencies are rare, but call the office when you have severe pain or a painful appliance you can’t manage yourself. Many problems can be temporarily managed until you can be seen: remove loose pieces and bring them with you, use orthodontic wax on poking pieces, or gently reposition a shifted wire with needle‑nosed pliers and bring it in for repair. After you relieve discomfort, call to schedule a repair. Leaving appliances damaged can delay treatment."
+              "text": "We provide clear and metal braces, Invisalign<sup>®</sup> and Invisalign Teen®, Damon self-ligating braces, removable appliances for minor tooth movement, surgical orthodontics and dentofacial orthopedics, plus technologies such as iTero digital scanning and OrthoPulse to support efficient progress."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.webp",
-            "alt": "Happy Family Portrait",
+            "src": "https://www.taortho.com/sesame_media/images/invisalign-pro-package/invisalign-profile.jpg",
+            "webp": "",
+            "alt": "Invisalign aligner profile image",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2219,26 +2330,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
           },
           "video": {
-            "type": "file",
+            "type": "embedded",
             "src": ""
           }
         },
         {
-          "header": "How should I brush and floss when I have braces?",
+          "header": "How do I know which treatment is right for me or my child?",
           "paragraphs": [
             {
-              "text": "Brush after every meal for two minutes with a soft‑bristled small‑headed brush (or a powered toothbrush). Use small circular motions at a 45° angle to the gum line and short back‑and‑forth strokes on chewing surfaces. To floss, thread floss behind the wire with a floss threader or orthodontic floss and floss beneath the gum line on each tooth. If floss doesn’t remove all particles, ask us about a water flosser."
+              "text": "Start with a complimentary consultation. We take photos, perform a complete exam, and create a custom treatment plan so the doctor can explain options, expected timeline, costs, and any alternatives to help you choose confidently."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-contact-hero.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-contact-hero.webp",
-            "alt": "Couple Enjoying Time Together",
+            "src": "https://www.taortho.com/sesame_media/images/invisalign-pro-package/invisalign-testimonials.jpg",
+            "webp": "",
+            "alt": "Orthodontic consultation and patient discussion",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2246,26 +2359,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
           },
           "video": {
-            "type": "file",
+            "type": "embedded",
             "src": ""
           }
         },
         {
-          "header": "What foods should I avoid (and what can I eat) with braces?",
+          "header": "Do you accept insurance and what payment options are available?",
           "paragraphs": [
             {
-              "text": "Avoid chewy foods like bagels and licorice, crunchy items such as popcorn, chips, and ice, sticky treats like caramel and gum, hard foods including nuts and hard candies, and foods you bite into like corn on the cob, whole apples, or raw carrots. Stick to soft dairy, soft breads, cooked grains and pasta, soft cooked meats, soft fruits (bananas, applesauce), cooked vegetables, and soft treats such as ice cream without nuts."
+              "text": "We review your insurance coverage and discuss in-house financing or monthly payment plans during the consultation so you understand estimated costs and available payment options before treatment begins."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.webp",
-            "alt": "Collaborative Team Spirit Moment",
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Financial consultation and payment discussion",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2273,26 +2388,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Flexible Payments"
+            }
           },
           "video": {
-            "type": "file",
+            "type": "embedded",
             "src": ""
           }
         },
         {
-          "header": "What types of braces and aligner options do you offer?",
+          "header": "How do I schedule an appointment or request a consultation?",
           "paragraphs": [
             {
-              "text": "We offer traditional metal braces with stainless steel brackets and archwires, self‑ligating braces that use a clip instead of elastics which may reduce friction and require fewer adjustments, clear ceramic braces that are less visible for cosmetic concerns, and clear aligners such as Invisalign<sup>®</sup> and similar systems that are removable and nearly invisible."
+              "text": "Request visits online at https://www.taortho.com/appointment-request, or call or text Clarence at (716) 759-8323 or our Tonawanda office at (716) 875-0405. The online form collects name, email, phone, and a short comment to help us schedule the right visit."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-faq-hero.webp",
-            "alt": "Smiling Man Working at Desk",
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Request an appointment online",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2300,26 +2417,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Contact Hero"
+            }
           },
           "video": {
-            "type": "file",
+            "type": "embedded",
             "src": ""
           }
         },
         {
-          "header": "How do I request an appointment or get started?",
+          "header": "What forms should I complete before my first visit?",
           "paragraphs": [
             {
-              "text": "Schedule a complimentary consultation via the appointment request page: https://www.taortho.com/appointment-request. During your visit the doctor and treatment coordinator will review photos, examine your mouth, and present treatment options so you can choose the plan that fits your goals."
+              "text": "Complete your intake electronically at https://patient.sesamecommunications.com/mandtortho/index.html, or download printable forms: Patient Form (Child) PDF https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf and Patient Form (Adult) PDF https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.jpg",
-            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.webp",
-            "alt": "Mother and Daughter Smiling Together",
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Patient intake forms and online registration",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2327,10 +2446,157 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
           },
           "video": {
-            "type": "file",
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What should I expect at the initial consultation and at the first appointment?",
+          "paragraphs": [
+            {
+              "text": "At the consultation we review medical and dental history, perform an oral exam, take photos or digital scans, and outline a customized treatment plan with timeline and cost options. The first appliance placement typically takes about an hour, during which the team ensures your comfort and answers questions."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Initial orthodontic consultation and exam",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How often are follow-up visits and what should I do if something breaks?",
+          "paragraphs": [
+            {
+              "text": "Follow-up visits are typically every four to eight weeks depending on your treatment. If wires, bands, or retainers become loose or break, contact the office right away, save any pieces, and bring them in. For temporary relief use orthodontic wax or a saltwater rinse until you can be seen."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Orthodontic emergency care and temporary fixes",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Emergency"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How do I care for braces and clear aligners?",
+          "paragraphs": [
+            {
+              "text": "For braces avoid hard or sticky foods and brush after meals using a soft-bristled brush and floss with a threader or water flosser. To relieve soreness rinse with one teaspoon of salt in eight ounces of lukewarm water and use over‑the‑counter pain relief if needed. For Invisalign<sup>®</sup> wear aligners 20 to 22 hours per day, remove them to eat and clean your teeth, and bring aligners to each visit."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://www.taortho.com/sesame_media/images/brushing.gif",
+            "webp": "",
+            "alt": "Demonstration of brushing with braces",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Cleaning"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What should I expect about retainers and retention?",
+          "paragraphs": [
+            {
+              "text": "Retention options include removable wire and acrylic retainers, Essix clear retainers, and fixed bonded retainers. Your doctor will recommend a retention plan and wear schedule based on your treatment to help protect your results long term."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://www.taortho.com/sesame_media/images/invisalign-pro-package/invisalign-testimonials.jpg",
+            "webp": "",
+            "alt": "Retention options including clear and bonded retainers",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Where can I find instructions for specific appliances like a palatal expander?",
+          "paragraphs": [
+            {
+              "text": "Printable instructions and step‑by‑step guides are available for appliances such as palatal expanders. See the palatal expander PDF at https://www.sesamehub.com/sesame_media/docs/palatal-expander.pdf for turning instructions and animated images."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://www.taortho.com/assets/images/treatment-01.jpg",
+            "webp": "",
+            "alt": "Palatal expander instructions and care",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "video": {
+            "type": "embedded",
             "src": ""
           }
         }
@@ -2343,16 +2609,64 @@
       }
     },
     {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Ready to get started?",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Enjoying Time Together",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
       "seo": {
         "page_title": "FAQ | Tyska Alexander Orthodontics",
-        "page_description": "Answers to common questions about braces, Invisalign®, emergencies, brushing, and scheduling. Schedule a complimentary consultation at our Clarence or Tonawanda",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, emergency care, Clarence, Tonawanda",
+        "page_description": "Answers to common patient questions about treatments, forms, scheduling, and care for braces and Invisalign® at Tyska Alexander Orthodontics.",
+        "page_keywords": "orthodontics, braces, Invisalign, FAQ, patient forms, Tyska Alexander Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "FAQ | Tyska Alexander Orthodontics",
-            "description": "Answers to common questions about braces, aligners, emergency care, and scheduling. Request a complimentary consultation online or by phone.",
-            "image": ""
+            "description": "Answers to common patient questions about treatments, forms, scheduling, and care for braces and Invisalign® at Tyska Alexander Orthodontics.",
+            "image": "https://www.taortho.com/assets/images/treatment-01.jpg"
           }
         }
       }
