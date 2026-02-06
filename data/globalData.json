@@ -1,7 +1,7 @@
 {
   "enable_development_mode": false,
   "company_name": "Tyska Alexander Orthodontics",
-  "domain": "www.taortho.com",
+  "domain": "taortho.com",
   "email": "info@mandtortho.com",
   "phone": {
     "number": "(716) 759-8323",
@@ -28,40 +28,40 @@
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30am - 4:30pm"
+          "time": "8:30am \u000211:30pm"
         },
         {
           "day": "Tuesday",
-          "time": "8:30am - 4:30pm"
+          "time": "8:30am \u00021:30pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00am - 11:30am"
+          "time": "8:00am \u000211:30am"
         },
         {
           "day": "Thursday",
-          "time": "8:00am - 4:00pm"
+          "time": "8:00am \u00024:00pm"
         },
         {
           "day": "Friday",
-          "time": "8:00am - 11:30am"
+          "time": "8:00am \u000211:30am"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+Street+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+Street,+Clarence,+NY+14031",
         "label": "Get Directions"
       },
-      "special_note": "Complimentary consultations available at this location."
+      "special_note": ""
     },
     {
       "title": "Tonawanda Office",
       "address": {
-        "street": "1077 Delaware Road",
+        "street": "1077 Delaware Rd",
         "suite": "",
-        "city_state": "Tonawanda (Buffalo), NY 14223",
+        "city_state": "Tonawanda, NY 14223",
         "coordinates": {
-          "longitude": "-78.8729134",
-          "latitude": "42.9905206"
+          "longitude": "-78.8730228",
+          "latitude": "42.9901241"
         }
       },
       "phone": {
@@ -69,29 +69,12 @@
         "href": "tel:+17168750405"
       },
       "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30am - 4:30pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30am - 4:30pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00am - 4:00pm"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:30am - 4:00pm"
-        }
-      ],
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Road+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd,+Tonawanda,+NY+14223",
         "label": "Get Directions"
       },
-      "special_note": "Complimentary consultations available at this location."
+      "special_note": ""
     }
   ],
   "typography": [
@@ -107,14 +90,14 @@
   "top_bar": {
     "enable_top_bar": true,
     "type": "links",
-    "theme": "light",
+    "theme": "dark",
     "content_alignment": "right",
     "links": [
       {
         "icon": "tooth-two-v2",
-        "text": "9650 Main St, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+Street+Clarence+NY+14031",
-        "label": "View 9650 Main St, Clarence, NY 14031 on Google Maps",
+        "text": "9650 Main Street, Clarence, NY 14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+Street,+Clarence,+NY+14031",
+        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
         "new_window": true
       },
       {
@@ -127,12 +110,12 @@
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "Complimentary Consultations",
-      "text": "Complimentary consultations are available at our Clarence and Tonawanda offices. Call or request an appointment online.",
-      "mobile_text": "Free Consultation",
+      "label": "Book your complimentary consultation",
+      "text": "Complimentary consultations available at our Clarence and Tonawanda offices. Call or request online to get started.",
+      "mobile_text": "Complimentary consultations available",
       "modal": {
-        "title": "Complimentary Consultations",
-        "text": "We offer complimentary consultations at both our Clarence and Tonawanda offices. During your visit we will review your medical and dental history, perform a complete exam, and provide a customized treatment plan."
+        "title": "Complimentary Consultation",
+        "text": "We offer a complimentary orthodontic consultation where the doctors review your case and design a personalized treatment plan. Request an appointment or call (716) 759-8323 for details."
       }
     }
   },
@@ -178,9 +161,9 @@
     "title": "Welcome to Tyska Alexander Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.taortho.com/assets/uploads/images/what-sets-us-apart.jpg",
       "webp": "",
-      "alt": "",
+      "alt": "Tyska Alexander Orthodontics",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -188,7 +171,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
