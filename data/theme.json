@@ -4,18 +4,18 @@
       {
         "label": "primary",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 51,
+          "green": 102,
+          "blue": 102,
           "alpha": 1
         },
-        "hex": "#224d83",
+        "hex": "#336666",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.11,
+          "luminancePercent": "11%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "contrastRatio": 6.5,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,18 +123,18 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 51,
+          "green": 102,
+          "blue": 102,
           "alpha": 1
         },
-        "hex": "#224d83",
+        "hex": "#336666",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.11,
+          "luminancePercent": "11%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "contrastRatio": 6.5,
+          "wcagRating": "AA"
         }
       }
     ],
@@ -145,7 +145,7 @@
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Roboto', sans-serif"
       }
     ],
     "logo_url": "https://www.taortho.com/assets/images/logo.png",
