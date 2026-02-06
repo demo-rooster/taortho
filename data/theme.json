@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 51,
-          "green": 102,
-          "blue": 102,
+          "red": 126,
+          "green": 164,
+          "blue": 194,
           "alpha": 1
         },
-        "hex": "#336666",
+        "hex": "#7ea4c2",
         "accessibility": {
-          "luminance": 0.11,
-          "luminancePercent": "11%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 6.5,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.98,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 153,
-          "green": 102,
-          "blue": 51,
+          "red": 97,
+          "green": 134,
+          "blue": 163,
           "alpha": 1
         },
-        "hex": "#996633",
+        "hex": "#6186a3",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.88,
+          "luminance": 0.22,
+          "luminancePercent": "22%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.45,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 63,
-          "green": 159,
-          "blue": 244,
+          "red": 34,
+          "green": 77,
+          "blue": 131,
           "alpha": 1
         },
-        "hex": "#3f9ff4",
+        "hex": "#224D83",
         "accessibility": {
-          "luminance": 0.32,
-          "luminancePercent": "32%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 7.48,
+          "luminance": 0.07,
+          "luminancePercent": "7%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 8.55,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 0,
-          "green": 0,
-          "blue": 0,
+          "red": 34,
+          "green": 77,
+          "blue": 131,
           "alpha": 1
         },
-        "hex": "#000000",
+        "hex": "#224D83",
         "accessibility": {
-          "luminance": 0,
-          "luminancePercent": "0%",
+          "luminance": 0.07,
+          "luminancePercent": "7%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 21,
+          "contrastRatio": 8.55,
           "wcagRating": "AAA"
         }
       },
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#ffffff",
+        "hex": "#FFFFFF",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -89,51 +89,51 @@
       {
         "label": "bg-2",
         "color": {
-          "red": 255,
-          "green": 255,
-          "blue": 255,
+          "red": 245,
+          "green": 245,
+          "blue": 245,
           "alpha": 1
         },
-        "hex": "#ffffff",
+        "hex": "#f5f5f5",
         "accessibility": {
-          "luminance": 1,
-          "luminancePercent": "100%",
+          "luminance": 0.91,
+          "luminancePercent": "91%",
           "recommendedTextColor": "#000000",
-          "contrastRatio": 21,
+          "contrastRatio": 19.26,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "topbar-light",
         "color": {
-          "red": 255,
-          "green": 255,
-          "blue": 255,
+          "red": 242,
+          "green": 242,
+          "blue": 242,
           "alpha": 1
         },
-        "hex": "#ffffff",
+        "hex": "#f2f2f2",
         "accessibility": {
-          "luminance": 1,
-          "luminancePercent": "100%",
+          "luminance": 0.89,
+          "luminancePercent": "89%",
           "recommendedTextColor": "#000000",
-          "contrastRatio": 21,
+          "contrastRatio": 18.76,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "topbar-dark",
         "color": {
-          "red": 51,
-          "green": 102,
-          "blue": 102,
+          "red": 97,
+          "green": 134,
+          "blue": 163,
           "alpha": 1
         },
-        "hex": "#336666",
+        "hex": "#6186a3",
         "accessibility": {
-          "luminance": 0.11,
-          "luminancePercent": "11%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 6.5,
+          "luminance": 0.22,
+          "luminancePercent": "22%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.45,
           "wcagRating": "AA"
         }
       }
@@ -141,11 +141,11 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Montserrat', helvetica, arial, sans-serif"
+        "font": "'Verdana', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Roboto', sans-serif"
+        "font": "'Montserrat', sans-serif"
       }
     ],
     "logo_url": "https://www.taortho.com/assets/images/logo.png",
